@@ -1,13 +1,13 @@
 {
-  "name": "hy-cli",
-  "version": "1.0.0",
+  "name": "fhcli",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "hyCli": "./bin/cli.js"
+    "fhcli": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
