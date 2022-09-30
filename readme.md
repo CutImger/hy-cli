@@ -4,10 +4,10 @@
 
 ```shell
 # install it globally
-$ npm install -g fhcli
+$ npm install -g hfwebcli
 
 # or yarn
-$ yarn global add fhcli
+$ yarn global add hfwebcli
 ```
 
 ### 使用
