@@ -1,4 +1,4 @@
-## 搭建一个简单的脚手架
+## filehua前端脚手架
 
 ### 安装
 
@@ -10,7 +10,7 @@ $ npm install -g fhcli
 $ yarn global add fhcli
 ```
 
-### 使用 
+### 使用
 
 #### 快速使用
 
